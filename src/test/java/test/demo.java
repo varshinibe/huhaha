@@ -4,6 +4,6 @@ public class demo {
 
 	public void called()
 	{
-		System.out.println("megha");
+		System.out.println("megha ms");
 	}
 }
